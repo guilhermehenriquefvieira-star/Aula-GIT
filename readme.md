@@ -1,3 +1,3 @@
 # Aula git e github
 
-- Meu nome é guilherme
+- Meu nome é Guilherme
